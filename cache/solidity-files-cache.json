@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Andrew Miracle\\Pictures\\Alchemy\\modify-contract-state\\contracts\\ModifyVariable.sol": {
+      "lastModificationDate": 1687496807787,
+      "contentHash": "3c9c2cc374e8079425e9109894e56f0d",
+      "sourceName": "contracts/ModifyVariable.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "ModifyVariable"
+      ]
+    }
+  }
+}
